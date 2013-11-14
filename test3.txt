@@ -1,1 +1,2 @@
+New line added from remote
 Remote file so that you can pull to local
